@@ -1,157 +1,193 @@
-# Charnyl Adaro
+# Hi there! 👋 I'm Charnyl Adaro
 
-### Computer Engineer | Digital Security Lead | Penetration Tester
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" height="50%" width="50%"/>
-</p>
-
----
-
-### 👨‍💻 About Me
-
-I am a Computer Engineer and Digital Security Lead with extensive experience in cybersecurity, vulnerability assessments, and technical support. My expertise lies in leading security teams, implementing robust security measures, and collaborating with international clients, particularly within Japanese business environments. I am passionate about utilizing my skills in ethical hacking and network security to protect digital systems, enhance security protocols, and contribute to the success of a forward-thinking organization.
-
----
-
-### 🛠️ Technical Skills
-
-**Security Tools:**
-*   Burp Suite
-*   VEX (Vulnerability Explorer)
-*   OWASP ZAP
-*   Visual Studio
-*   NMAP
-
-**Programming Languages:**
-*   Python
-*   JavaScript
-*   HTML
-*   CSS
-*   SQL
-*   PHP
-
-**Operating Systems:**
-*   Window Server
-*   Windows
-*   Linux
-
----
-
-### 📜 Certifications
-
-*   **Japanese Language Proficiency Test (JLPT) N3**
-*   **Cisco Certified Ethical Hacker**
-*   **Cisco Introduction to Cybersecurity**
-
----
-
-### 💼 Professional Experience
-
-**Digital Security Lead** | TMJPBPO SERVICES INC. | Dec 2024 - Present
-*   Leading security engineering teams and enforcing security policies.
-*   Developing and managing cybersecurity strategies to prevent attacks.
-
-**Digital Security Engineer** | TMJPBPO SERVICES INC. | Aug 2023 - Nov 2024
-*   Monitored and analyzed systems to identify security issues.
-*   Performed automated security diagnostics using VEX (Vulnerability Explorer).
-
-**Technical Support Representative** | TMJPBPO SERVICES INC. | Jun 2021 - Aug 2020
-*   Provided technical support and troubleshooting assistance.
-*   Translated documents between Japanese and English.
-
----
-
-### 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=charnyladaro&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=charnyladaro&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=charnyladaro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-### 💻 Technologies & Tools
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="30" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="30" alt="cloudflare logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/heroku/430098" height="30" alt="heroku logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nginx/009639" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/powershell/5391FE" height="30" alt="powershell logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="30" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/trello/0052CC" height="30" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" height="200" alt="Welcome Animation"/>
+  
+  ### 🔐 Computer Engineer | 🛡️ Digital Security Lead | 🕵️ Penetration Tester
+  
+  ![](https://komarev.com/ghpvc/?username=charnyladaro&label=Profile+Views&color=0e75b6&style=flat)
+  
+  <p>
+    <a href="https://linkedin.com/in/charnyladaro">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:charnyladaro@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://github.com/charnyladaro">
+      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </p>
 </div>
 
 ---
 
-### 🌐 Connect with Me
+## 🚀 About Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/charnyladaro) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chappie2610/?hl=en) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charnyladaro) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UClGFD_FhNPPYRgl36zn4_rA) 
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white&style=flat&logoWidth=40&style=flat&height=30)](mailto:your.charnyladaro@gmail.com)
+I'm a **Computer Engineer and Digital Security Lead** passionate about safeguarding digital systems and protecting organizations from evolving cyber threats. With a strong background in vulnerability assessments, penetration testing, and security team leadership, I specialize in collaborating with international clients and implementing robust security protocols. I believe in combining technical expertise with strategic thinking to build secure, resilient systems.
 
----
-
-### 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=charnyladaro&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=charnyladaro&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+<div align="center">
+  
+  | 🎯 | 💡 | 🔒 |
+  |:---:|:---:|:---:|
+  | **Security-First** | **Solution-Driven** | **Compliance-Focused** |
+  | Threat Prevention & Detection | Innovation in Cybersecurity | Data Protection |
+  
+</div>
 
 ---
 
-### 💰 Support My Work
+## 🏢 Professional Experience
+
+<div>
+
+### 🌟 **Digital Security Lead** 
+**TMJPBPO SERVICES INC.** | *Dec 2024 - Present*
+- 👥 Leading security engineering teams and enforcing comprehensive security policies
+- 🛡️ Developing and managing cybersecurity strategies to prevent advanced attacks
+- 📊 Overseeing security protocols and team performance metrics
+
+### 🔧 **Digital Security Engineer**
+**TMJPBPO SERVICES INC.** | *Aug 2023 - Nov 2024*
+- 🔍 Monitored and analyzed systems to identify security vulnerabilities and threats
+- 🤖 Performed automated security diagnostics using VEX (Vulnerability Explorer)
+- 📋 Documented findings and provided actionable remediation recommendations
+
+### 💼 **Technical Support Representative**
+**TMJPBPO SERVICES INC.** | *Jun 2021 - Aug 2023*
+- 🆘 Provided technical support and troubleshooting assistance to clients
+- 🌐 Translated technical documentation between Japanese and English
+- 📞 Managed client relationships and resolved technical issues efficiently
+
+</div>
+
+---
+
+## 🛠️ Technical Skills
+
+<div align="left">
+
+### 🔐 **Security Tools & Frameworks**
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burp&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-3399CC?style=flat&logo=owasp&logoColor=white)
+![NMAP](https://img.shields.io/badge/NMAP-0078D4?style=flat&logo=nmap&logoColor=white)
+![VEX](https://img.shields.io/badge/VEX-FF5C93?style=flat&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-EC1C24?style=flat&logoColor=white)
+
+### 💻 **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=sql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### 🖥️ **Operating Systems & Platforms**
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+
+### 🚀 **DevOps & Cloud**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+### 🛠️ **Frameworks & Tools**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+</div>
+
+---
+
+## 📜 Certifications & Credentials
+
+<div align="center">
+
+| Certification | Organization | Status |
+|:---:|:---:|:---:|
+| 🇯🇵 **JLPT N3** | Japanese Language Proficiency | ✅ Certified |
+| 🔐 **Cisco Certified Ethical Hacker** | Cisco Academy | ✅ Certified |
+| 🛡️ **Introduction to Cybersecurity** | Cisco Academy | ✅ Certified |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charnyladaro&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/charnyladaro)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charnyladaro&theme=tokyonight&hide_border=true)](https://github.com/charnyladaro)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charnyladaro&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/charnyladaro)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=charnyladaro&theme=tokyonight&no-frame=false&margin-w=4)](https://github.com/charnyladaro)
+
+</div>
+
+---
+
+## 🌐 Let's Connect!
+
+<div align="center">
+
+### Find me on social media:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/charnyladaro)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/chappie2610/?hl=en)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/charnyladaro)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/channel/UClGFD_FhNPPYRgl36zn4_rA)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:charnyladaro@gmail.com)
+
+</div>
+
+---
+
+## 💡 Current Focus
+
+<div align="center">
+
+🔍 **Vulnerability Assessment & Penetration Testing**  
+🛡️ **Advanced Threat Detection**  
+🌍 **International Security Collaboration**  
+📚 **Continuous Security Education**
+
+</div>
+
+---
+
+## 💰 Support My Work
+
+If you find my projects valuable and want to support my work, consider buying me a coffee! ☕
+
+<div align="center">
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/charnyladaro)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/charnyladaro)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you found something useful, please consider starring my repos and following! 🙏
+
+**Made with ❤️ by Charnyl Adaro**
+
+</div>
