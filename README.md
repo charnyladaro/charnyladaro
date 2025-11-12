@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Charnyl Adaro
 
 <div align="center">
-  //<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" height="200" alt="Welcome Animation"/>
-   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRsZHFqZnBndnJsYzV0YXFoaWpnMmFtcm5oaWJjZ29ldnc1OHk5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wpoLqr5FT1sY0/giphy.gif" height="200" alt="Welcome Animation"/>
+  <!--<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" height="200" alt="Welcome Animation"/>
+   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRsZHFqZnBndnJsYzV0YXFoaWpnMmFtcm5oaWJjZ29ldnc1OHk5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wpoLqr5FT1sY0/giphy.gif" height="200" alt="Welcome Animation"/>-->
   
   ### 🔐 Computer Engineer | 🛡️ Digital Security Lead | 🕵️ Penetration Tester
   
